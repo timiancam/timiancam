@@ -7,10 +7,6 @@
   
 
 - 🔭 I’m currently working on [Data Dashboard](https://github.com/timiancam/Data-Dashboard)  
-  
-
-- 🌱 I’m currently learning SQL and AWS  
-  
 
 <br/>  
 
@@ -52,12 +48,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=timiancam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
