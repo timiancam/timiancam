@@ -3,7 +3,7 @@
 </div>
 
 <h1>Hello (World)! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<div size='20px'>Hi! My name is Tim Cameron. I'm a Mechanical Engineer who is looking to transition into a software engineering role.
+<div size='20px'>Hi! My name is Tim Cameron. I'm a Mechanical Engineer who is looking to transition into a data engineering role.
 </div>
 
 <h2>About Me</h2>
