@@ -2,29 +2,7 @@
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
-<h1>Hello (World)! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<div size='20px'>Hi! My name is Tim Cameron. I'm a Mechanical Engineer who is looking to transition into a data engineering role.
-</div>
-
-<h2>About Me</h2>
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
-- 🔭 I’m currently working on Fortune 500 data ETL
-
-- 🌱 I’m currently learning:
-  - MySQL and PostgreSQL
-  - Interfacing with databases with Python
-  - Docker
-  - AWS EC2 
-
-- 💬 Talk to me about:
-  - Python
-  - Data Science
-  - Data Engineering
-  - Open Source
-  - New opportunities 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <picture>
